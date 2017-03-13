@@ -1,0 +1,13 @@
+--cpu=Cortex-M4.fp
+".\objects\main.o"
+".\objects\iap.o"
+".\objects\action_sys.o"
+".\objects\action_uart.o"
+".\objects\action_flash.o"
+"C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Lib\ARM\arm_cortexM4lf_math.lib"
+".\objects\startup_stm32f407xx.o"
+".\objects\system_stm32f4xx.o"
+--library_type=microlib --strict --scatter ".\Objects\2017ABU_RegisterVersion.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\2017ABU_RegisterVersion.map" -o .\Objects\2017ABU_RegisterVersion.axf
