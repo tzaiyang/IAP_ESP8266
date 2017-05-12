@@ -409,6 +409,11 @@
               <FileType>1</FileType>
               <FilePath>..\Drivers\action_flash.c</FilePath>
             </File>
+            <File>
+              <FileName>action_gpio.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\Drivers\action_gpio.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
