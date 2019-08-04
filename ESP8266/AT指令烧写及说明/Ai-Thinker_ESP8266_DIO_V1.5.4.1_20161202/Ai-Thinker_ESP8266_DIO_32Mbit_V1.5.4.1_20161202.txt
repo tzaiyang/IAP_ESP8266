@@ -1,0 +1,17 @@
+Check Time:  2016-12-02 15:21:18
+MD5:  A42D60F2314F7900D82044AC695CBD08
+
+Module Type: ESP8266
+
+*************** File Info ***************
+
+File Name: Ai-Thinker_ESP8266_DIO_32Mbit_V1.5.4.1_20161202.bin
+File Size: 4096 KB (32.00Mbits)
+
+*************** Flash Info ***************
+
+SPI MODE: DIO
+SPI SPEED: 40MHZ
+Flash Size: 32Mbits
+
+*****************************************

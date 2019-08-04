@@ -1,0 +1,17 @@
+Check Time:  2016-12-02 15:21:10
+MD5:  9C0AD5244B9D15B2CAA508D090434FEA
+
+Module Type: ESP8266
+
+*************** File Info ***************
+
+File Name: Ai-Thinker_ESP8266_DIO_8Mbit_V1.5.4.1_20161202.bin
+File Size: 1024 KB (8.00Mbits)
+
+*************** Flash Info ***************
+
+SPI MODE: DIO
+SPI SPEED: 40MHZ
+Flash Size: 8Mbits
+
+*****************************************
